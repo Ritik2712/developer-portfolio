@@ -13,7 +13,7 @@
 # Demo :movie_camera:
 
 
-## View live preview [here](https://abusaid.netlify.app/).
+## View live preview [here](https://ritik-mahajan-portfolio.netlify.app/).
 
 ---
 
