@@ -10,5 +10,5 @@ export const personalData = {
   github: "https://github.com/Ritik2712",
   linkedIn: "https://www.linkedin.com/in/ritik-react-next-developer-38ab91192/",
   resume:
-    "https://drive.google.com/file/d/1Iufwh4rhfkWjNuGuUFcbEBr6PtmqVmuF/view?usp=sharing",
+    "https://drive.google.com/file/d/11_4nLlgOAtEXgixjk2PabaQrQCbPvMD9/view?usp=sharing",
 };
