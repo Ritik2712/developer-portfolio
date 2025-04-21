@@ -73,6 +73,9 @@ import webix from "/public/svg/skills/webix.svg";
 import wolframalpha from "/public/svg/skills/wolframalpha.svg";
 import wordpress from "/public/svg/skills/wordpress.svg";
 import node from "/public/svg/skills/node.svg";
+import excel from "/public/svg/skills/excel.svg";
+import powerbi from "/public/svg/skills/powerbi.svg";
+import tableau from "/public/svg/skills/tableau.svg";
 export const skillsImage = (skill) => {
   const skillID = skill.toLowerCase();
   switch (skillID) {
@@ -226,6 +229,12 @@ export const skillsImage = (skill) => {
       return wolframalpha;
     case "canva":
       return canva;
+    case "excel":
+      return excel;
+    case "powerbi":
+      return powerbi;
+    case "tableau":
+      return tableau;
     default:
       break;
   }

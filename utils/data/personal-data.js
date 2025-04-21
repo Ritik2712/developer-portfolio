@@ -1,14 +1,13 @@
 export const personalData = {
-  name: "Ritik Mahajan",
+  name: "Ankit Kumar",
   profile: "/profile.png",
-  designation: "Software Developer",
+  designation: "Data Analyst and Visualizer",
   description:
-    "My name is Ritik Mahajan. I am a professional and enthusiastic programmer in my daily life. I am a quick learner with a self-learning attitude. I love to learn and explore new technologies and am passionate about problem-solving. I love almost all the stacks of web application development and love to make the web more open to the world. My core skill is based on JavaScript and I love to do most of the things using JavaScript. I am available for any kind of job opportunity that suits my skills and interests.",
-  email: "ritikmahajan2712@gmail.com",
-  phone: "+918920536788",
+    "My name is Ankit Kumar. I am a professional and passionate Data Analyst and Visualizer. I have a strong enthusiasm for transforming complex data into actionable insights through clear and impactful visualizations. I am a quick learner with a self-motivated attitude, always exploring new tools and techniques in data analysis. I am deeply committed to making data-driven decisions more accessible and understandable. With a core focus on working with data, I am skilled in statistical analysis, data visualization tools, and data storytelling. I enjoy working with various data stacks and platforms, and I am always eager to expand my knowledge. I am available for any job opportunity that aligns with my skills and interests.",
+  email: "ak.ankitkumar707@gmail.com",
+  phone: "+917011078754",
   address: "Rohini Delhi",
-  github: "https://github.com/Ritik2712",
-  linkedIn: "https://www.linkedin.com/in/ritik-react-next-developer-38ab91192/",
+  linkedIn: "https://www.linkedin.com/in/ankitkrkumar/",
   resume:
     "https://drive.google.com/file/d/11_4nLlgOAtEXgixjk2PabaQrQCbPvMD9/view?usp=sharing",
 };
