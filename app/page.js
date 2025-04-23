@@ -8,16 +8,22 @@ import Experience from "./components/homepage/experience";
 import HeroSection from "./components/homepage/hero-section";
 import Projects from "./components/homepage/projects";
 import Skills from "./components/homepage/skills";
+import { useEffect, useState } from "react";
 
-export default async function Home() {
-  return (
-    <>
-      <HeroSection />
-      <AboutSection />
-      <Experience />
-      <Skills />
-      <Projects />
-      <Education />
-    </>
-  );
+export default function Home() {
+  const [loading, setLoading] = useState(false);
+  useEffect(() => {
+    setLoading(true);
+  }, []);
+  if (loading)
+    return (
+      <>
+        <HeroSection />
+        <AboutSection />
+        <Experience />
+        <Skills />
+        <Projects />
+        <Education />
+      </>
+    );
 }
